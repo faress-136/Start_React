@@ -1,0 +1,39 @@
+.myfooter{
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    background-color: #2c3e50;
+    color: #fff;
+}
+
+.footer_text{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.p_footer{
+    font-size: 1.25rem;
+    font-weight: 500;
+}
+
+.social_icons{
+    border-radius: 100%;
+    display: inline-flex;
+    width: 3.25rem;
+    height: 3.25rem;
+    font-size: 1.25rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.svg_footer_size{
+    height: 1em;
+}
+
+.credits{
+    background-color: #1a252f;
+}
+
+.s_footer{
+font-weight: 600;
+
+}

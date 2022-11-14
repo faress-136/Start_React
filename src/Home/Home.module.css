@@ -1,0 +1,49 @@
+.bg_home{
+    background-color: #1abc9c !important;
+}
+
+.avatar_size{
+    width: 15rem;
+}
+
+.section_height{
+    /* min-height: 600px; */
+    max-height: 100%;
+}
+
+.text_h1{
+    font-weight: 800;
+    font-size: 4rem;
+    line-height: 3.5rem;
+}
+
+.logo_divider .white_line{
+    /* background-color: #fff; */
+}
+
+.white_line:first-child {
+    margin-right: 1rem;
+}
+
+.white_line:last-child {
+    margin-left: 1rem;
+}
+
+.white_line{
+    width: 100%;
+    max-width: 7rem;
+    height: 0.25rem;
+    background-color: #fff;;
+    border-radius: 1rem;
+    border-color:  #fff !important;
+
+}
+
+.svg_img{
+    width: 1.5em;
+}
+
+.p_text{
+    font-size: 1.2rem;
+    font-weight: 600;
+}

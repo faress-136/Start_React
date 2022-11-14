@@ -1,0 +1,39 @@
+.about_section{
+    min-height: 580px;
+    background-color: #1abc9c;
+}
+
+.about_text{
+    font-size: 3rem;
+    line-height: 2.5rem;
+    color: #fff !important;
+    font-weight: 700;
+}
+
+.white_line:first-child {
+    margin-right: 1rem;
+}
+
+.white_line:last-child {
+    margin-left: 1rem;
+}
+
+.white_line{
+    width: 100%;
+    max-width: 7rem;
+    height: 0.25rem;
+    background-color: #fff;
+    border-radius: 1rem;
+    border-color: #fff !important;
+}
+
+.svg_img{
+    width: 1.5em;
+    color: #fff;
+}
+
+.about_p{
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #fff;
+}
